@@ -6,6 +6,8 @@ README...
 
 大学中退後、実家の手伝いを細々と暮らしています。でも半分くらいNEETです。
 
+Discode：MaSTer#4933
+
 E-mail：htakuma@masterak-arch.com
 
 Twitter：「[マスタークさんの日記](https://twitter.com/MaSTerAK_O2O9)」
@@ -17,6 +19,8 @@ I'm Takuma, and my HN is 'masterak.
 Born in 1998. from JP
 
 Ahh... I'm not good Eglish. If you have comments, plz write them in sinple English.
+
+Discode：MaSTer#4933
 
 ## ブログについて
 
