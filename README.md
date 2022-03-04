@@ -4,8 +4,6 @@ README...
 
 その他、ハンドルネームは「masterak」という名前でネットの海を彷徨っています。
 
-Twitter：https://twitter.com/MaSTerAK_O2O9
-
 １９９８年生まれ
 
 大学中退後、実家の手伝いをしながら細々と暮らしています。
@@ -24,7 +22,7 @@ Discode：MaSTer#4933
 
 E-mail：htakuma@masterak-arch.com
 
-Twitter：「[マスタークさんの日記](https://twitter.com/MaSTerAK_O2O9)」
+Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
 
 ## Self Intoduction
 
