@@ -4,6 +4,8 @@ README...
 
 その他、ハンドルネームは「masterak」という名前でネットの海を彷徨っています。
 
+Twitter：https://twitter.com/MaSTerAK_O2O9
+
 1998年生まれ
 
 大学中退後、実家の手伝いをしながら細々と暮らしています。
