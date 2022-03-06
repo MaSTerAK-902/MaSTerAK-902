@@ -1,6 +1,6 @@
 README...
 ## 自己紹介
-管理人のタクマと申します。
+管理人のホシノと申します。
 
 その他、ハンドルネームは「masterak」という名前でネットの海を彷徨っています。
 
@@ -26,7 +26,7 @@ Twitter：「[MASTERAK](https://twitter.com/MaSTerAK_O2O9)」
 
 ## Self Intoduction
 
-I'm Takuma, and my HN is 'masterak.
+I'm Hoshino, and my HN is 'masterak.
 
 Born in 1998. from JP
 
