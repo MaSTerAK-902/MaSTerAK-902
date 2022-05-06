@@ -16,7 +16,7 @@ Discode：MaSTer#4933
 
 主に使用する言語：C# Python C/C++ HTML/CSS VBA JavaScript
 
-今現在、勉強中の言語：C# Erlang
+今現在、勉強中の言語：C# Erlang Angular
 
 今やってるゲーム：ELDEN RING/BF2042/Apex Legends
 
