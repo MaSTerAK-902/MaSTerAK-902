@@ -16,7 +16,7 @@ Discode：MaSTer#4933
 
 主に使用する言語：C# Python C/C++ VBA JavaScript
 
-今現在、勉強中の言語：C# Erlang Angular
+今現在、勉強中の言語：Typescript
 
 今やってるゲーム：ELDEN RING/BF2042/Apex Legends
 
@@ -34,13 +34,7 @@ Ahh... I'm not good Eglish. If you have comments, plz write them in sinple Engli
 
 Discode：MaSTer#4933
 
-## ブログについて
-
-[MASTERAK_BLOG](https://masterak-arch.com/)
-
-掲載内容の間違いやコメントはツイッターに書いていただけると幸いです。
-
-公開しているソフトウェアは自由に利用して頂いて構いません。
+## その他
 
 掲載しているソフトウェアに第三者の著作権侵害やガイドライン違反に該当する箇所が見つかった場合はご連絡ください。
 
