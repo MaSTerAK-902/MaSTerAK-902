@@ -18,7 +18,7 @@ Discode：MaSTer#4933
 
 今現在、勉強中の言語：Typescript
 
-今やってるゲーム：ELDEN RING/BF2042/Apex Legends
+今やってるゲーム：Battlefield2042
 
 E-mail：htakuma@masterak-arch.com
 
